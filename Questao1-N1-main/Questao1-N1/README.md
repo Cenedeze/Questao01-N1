@@ -4,8 +4,8 @@ Projeto desenvolvido para a disciplina de **Programação Mobile** do curso de *
 
 ## 👤 Informações do Aluno
 
-- **Nome:** Hebert dos Reis Esteves  
-- **RA:** 24026079  
+- **Nome:** João Vitor Cenedeze
+- **RA:** 24025874
 - **Professor:** Vinicius Heltai  
 - **Semestre:** 3º  
 - **Disciplina:** Programação Mobile  
@@ -39,7 +39,7 @@ Você pode utilizar **qualquer uma das opções abaixo** para abrir e testar o p
 ### ✅ Opção 1: Usando o repositório GitHub
 
 1. Clone este repositório:  
-   `git clone https://github.com/hebertesteves/Questao1-N1.git`
+   `git clone https://github.com/Cenedeze/Questao01-N1`
 
 2. Abra o projeto no Android Studio;
 
@@ -50,7 +50,7 @@ Você pode utilizar **qualquer uma das opções abaixo** para abrir e testar o p
 ### ✅ Opção 2: Usando o projeto compactado
 
 1. Baixe e extraia o arquivo `.zip` disponível no repositório:  
-   [`250411-Questao1.zip`](https://github.com/hebertesteves/Questao1-N1/blob/main/250411-Questao1.zip)
+   [`Questao01.zip`](https://github.com/Cenedeze/Questao01-N1/blob/main/Questao1-N1-main/Questao1-N1/Questao01.zip)
 
 2. Abra a pasta extraída no Android Studio;
 
